@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : ua.nure.kuznetsov : super-server-0.0.1.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/super-server-0.0.1.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/super-server-0.0.1.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="super-server_main/web/Web Gradle : super-server-0.0.1.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="super-server_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.3.8.RELEASE/3179307578f329f3460b5b14a465801a53659071/spring-boot-starter-web-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.8.RELEASE/5b08d7252ae0bb01ac1fac341354e886862f9cd5/spring-boot-starter-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.3.8.RELEASE/cd5ef9facd378bd23a40aec4f1e383a9db8baa96/spring-boot-starter-tomcat-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/1.3.8.RELEASE/1f5823a495860a0bb69feb0b116cd1c9f9934c61/spring-boot-starter-validation-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.7/1857f49ee9dffe1c8d17d4c3980e0d713af2806/jackson-databind-2.6.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.8.RELEASE/8329b01a76614bbeb3f730e116227c1743bbea4c/spring-web-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.8.RELEASE/e83295391d9c103ee2edfb37ea267edda104b2b5/spring-webmvc-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.8.RELEASE/bbb0adc1d1b3167f40fe06cdc32411e115054192/spring-boot-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.8.RELEASE/2eb3d74cc3084ae72852fbcfc7da1acaac2bd67c/spring-boot-autoconfigure-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.8.RELEASE/4ed343e779f484e791dd95a0cd51bb1bdb7d8793/spring-boot-starter-logging-1.3.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.8.RELEASE/924f861005d8b33978dea6c81020965a635d08ba/spring-core-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.37/5b88395a68f17424476b7505a41179fba21cf904/tomcat-embed-core-8.0.37.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.37/8910a8bfdc3361e3589fa2fec368c6ae6cd4090d/tomcat-embed-el-8.0.37.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.37/68006b8fc684c5edb9caeb55ba86147fe091ea27/tomcat-embed-logging-juli-8.0.37.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.37/484e24324d74b5910ba54aa69db6a2111f1f4c97/tomcat-embed-websocket-8.0.37.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/fb18766b576aa6632bcfe9a20a023cbd52bf9769/hibernate-validator-5.2.4.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.7/7e08eafe72cbd11c955d92109108bd2bfaab979e/jackson-annotations-2.6.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.7/81838e08d5e10e33cdee7299f9682d836b78c63e/jackson-core-2.6.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.8.RELEASE/ae926bf991bdf5894f52e4f1e9710c5f94656fc4/spring-aop-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.8.RELEASE/4917f6ed94d7534f7f6dd67216cdff9443dd0a08/spring-beans-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.8.RELEASE/4de111782a6fb315d6f39eacf22fa8168f51062b/spring-context-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.8.RELEASE/2db993c6f4b155100f45d742366941b984bbdf9c/spring-expression-4.2.8.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/9865cf6994f9ff13fce0bf93f2054ef6c65bb462/logback-classic-1.1.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.21/331b564a3a42f002a0004b039c1c430da89062cd/jcl-over-slf4j-1.7.21.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.21/2f22c882ffa479d1e9ff4eb0e8e2c29f2a0871ed/jul-to-slf4j-1.7.21.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.21/b3700d97464d99bdcd42c0177d6e7951c94d75ff/log4j-over-slf4j-1.7.21.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.1.0/dbbd699a1486ad0f2ed6f5af6cfed66acacb9056/classmate-1.1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/7873092d39ef741575ca91378a6a21c388363ac8/logback-core-1.1.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../direct-net-share-master/gradle/wrapper/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
